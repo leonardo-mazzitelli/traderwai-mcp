@@ -99,7 +99,7 @@ Charts, analysis and backtests are free. Paid plans add more executions, auto-ex
 
 ## Support
 
-[traderwai.com/en/contact](https://traderwai.com/en/contact) · hi@flex-in.org
+[traderwai.com/en/contact](https://traderwai.com/en/contact) · info@traderwai.com
 
 ---
 
