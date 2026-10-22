@@ -1,0 +1,20 @@
+TraderWAI MCP server: documentation and client configurations
+Copyright (c) 2026 FLEXIN AGILE LTD
+
+This repository contains documentation, example client configurations and brand assets for the
+hosted TraderWAI MCP server (https://mcp.traderwai.com). It does not contain the server's source
+code; the hosted server and its software are proprietary and are not licensed by this file.
+
+Scope
+-----
+Except where noted below, the contents of this repository (the README and other documentation
+files, and the configuration files in examples/) are licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0), reproduced in full in the LICENSE file and available at
+https://creativecommons.org/licenses/by/4.0/. Attribution: "TraderWAI (FLEXIN AGILE LTD),
+https://github.com/leonardo-mazzitelli/traderwai-mcp".
+
+Trademarks
+----------
+The TraderWAI name and logo (including assets/logo.png and assets/logo-400.png) are trademarks of
+FLEXIN AGILE LTD and are not licensed under CC BY 4.0. They may be used only to refer to the
+TraderWAI service. CC BY 4.0 does not grant trademark rights (see Section 2(b)(2) of the license).

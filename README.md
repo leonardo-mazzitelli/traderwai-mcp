@@ -8,8 +8,7 @@ A remote MCP server that connects the AI you already use to your own trading acc
 <p align="center">
 <a href="https://traderwai.com">Website</a> ·
 <a href="https://traderwai.com/en/docs">Docs</a> ·
-<a href="https://traderwai.com/en/connect">Setup guides</a> ·
-<a href="https://www.producthunt.com/products/traderwai">Product Hunt</a>
+<a href="https://traderwai.com/en/connect">Setup guides</a>
 </p>
 
 <p align="center">
@@ -38,7 +37,7 @@ A remote MCP server that connects the AI you already use to your own trading acc
 
 ## Supported platforms
 
-MetaTrader 4 and 5, cTrader, TradeLocker, Match-Trader, DXtrade, Capital.com (beta), Binance and Bybit. Demo and live accounts, including prop-firm accounts. MetaTrader requires the Trader or Max plan (see [Plans and limits](#plans-and-limits)).
+MetaTrader 4 and 5, cTrader, TradeLocker, Match-Trader, DXtrade (beta), Capital.com (beta), Binance and Bybit. Demo and live accounts, including prop-firm accounts. MetaTrader requires the Trader or Max plan (see [Plans and limits](#plans-and-limits)).
 
 ## Supported AIs
 
@@ -126,7 +125,7 @@ Charts and live market data are unlimited on every plan. What is limited is acti
 | Backtest history | 7 days | 45 days | 90 days | Full |
 | Risk limits | No | Basic | Basic | Full (prop-firm rules) |
 
-- The Free plan covers cTrader, TradeLocker, Match-Trader, DXtrade, Capital.com, Binance and Bybit; **MetaTrader needs Trader or Max**.
+- The Free plan covers cTrader, TradeLocker, Match-Trader, DXtrade (beta), Capital.com (beta), Binance and Bybit; **MetaTrader needs Trader or Max**.
 - An execution is each order placed on your broker (by your AI, by an order you approved or by a conditional order). Charts, market data and checking positions don't count.
 - When a limit is reached, tools return a `PLAN_LIMIT` error; `get_account_info` shows your plan, usage and limits.
 
@@ -138,7 +137,7 @@ Current prices and details: [traderwai.com/en/pricing](https://traderwai.com/en/
 
 ## License
 
-The documentation and example configurations in this repository are licensed under [CC BY 4.0](LICENSE). The TraderWAI name and logo are not covered by that license; see [LICENSE](LICENSE). The hosted server is proprietary.
+The documentation and example configurations in this repository are licensed under [CC BY 4.0](LICENSE). The TraderWAI name and logo are not covered by that license; see [NOTICE](NOTICE). The hosted server is proprietary.
 
 ---
 
