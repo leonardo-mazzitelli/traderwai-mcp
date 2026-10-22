@@ -1,0 +1,4 @@
+# Add to ~/.codex/config.toml (or a trusted project's .codex/config.toml),
+# then run: codex mcp login traderwai
+[mcp_servers.traderwai]
+url = "https://mcp.traderwai.com"
