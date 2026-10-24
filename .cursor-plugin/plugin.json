@@ -1,0 +1,17 @@
+{
+  "name": "traderwai",
+  "displayName": "TraderWAI",
+  "version": "1.0.0",
+  "description": "Live market charts, OHLC data, strategy backtests on 1-minute data and trading on your own broker (MetaTrader 4/5, cTrader, TradeLocker, Match-Trader, DXtrade, Capital.com, Binance, Bybit) through the hosted TraderWAI MCP server. Sign in with Google; free plan available.",
+  "author": {
+    "name": "FLEXIN AGILE LTD (TraderWAI)",
+    "email": "info@traderwai.com"
+  },
+  "logo": "assets/logo.png",
+  "homepage": "https://traderwai.com",
+  "repository": "https://github.com/leonardo-mazzitelli/traderwai-mcp",
+  "license": "CC-BY-4.0",
+  "keywords": ["trading", "forex", "metatrader", "mt5", "ctrader", "tradelocker", "backtesting", "charts", "crypto", "mcp"],
+  "category": "finance",
+  "skills": "./skills/"
+}

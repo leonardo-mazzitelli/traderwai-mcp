@@ -50,13 +50,13 @@ You need a free TraderWAI account ([sign up](https://traderwai.com)); the first 
 | AI | How |
 |---|---|
 | **Claude** (web, desktop, mobile) | Settings → Connectors → Add custom connector → URL `https://mcp.traderwai.com` |
-| **ChatGPT** (paid plans, developer mode) | Settings → Apps & Connectors → Advanced → Developer mode → Create → URL `https://mcp.traderwai.com`, authentication OAuth |
+| **ChatGPT** (any plan, Free included) | chatgpt.com/plugins → Add → Add custom MCP server → URL `https://mcp.traderwai.com`, authentication OAuth → Create as plugin |
 | **Grok** | grok.com/connectors → New connector → Custom → URL `https://mcp.traderwai.com` |
 | **Perplexity** (beta; Pro, Max or Enterprise) | Settings → Connectors → Add custom remote connector → URL `https://mcp.traderwai.com` |
 | **Claude Code** | `claude mcp add --transport http traderwai https://mcp.traderwai.com`, then `/mcp` to sign in |
 | **Gemini CLI** | `gemini mcp add --transport http traderwai https://mcp.traderwai.com`, then `/mcp auth traderwai` · [settings.json](examples/gemini-cli/settings.json) |
 | **OpenAI Codex** | `codex mcp add traderwai --url https://mcp.traderwai.com`, then `codex mcp login traderwai` · [config.toml](examples/codex/config.toml) |
-| **Cursor** | [`.cursor/mcp.json`](examples/cursor/.cursor/mcp.json) |
+| **Cursor** | Cursor plugin in this repo ([`.cursor-plugin/plugin.json`](.cursor-plugin/plugin.json), [`mcp.json`](mcp.json), [skill](skills/traderwai-trading/SKILL.md)) or [`.cursor/mcp.json`](examples/cursor/.cursor/mcp.json) |
 | **VS Code** (GitHub Copilot) | [`.vscode/mcp.json`](examples/vscode/.vscode/mcp.json) |
 | **Any other MCP client** | Add a remote Streamable HTTP server with the URL above, or use the JSON below |
 
